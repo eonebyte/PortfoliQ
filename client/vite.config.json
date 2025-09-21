@@ -1,0 +1,17 @@
+{
+  "base": "/",
+  "root": "C:/Users/my/Documents/project_web/fastify/my-portfolio/client",
+  "build": {
+    "assetsDir": "assets",
+    "outDir": "dist/client"
+  },
+  "fastify": {
+    "outDirs": {
+      "client": "dist/client",
+      "ssr": "dist/server"
+    },
+    "entryPaths": {
+      "ssr": "$app/index.js"
+    }
+  }
+}
