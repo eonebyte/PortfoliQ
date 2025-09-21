@@ -41,8 +41,8 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal di komp
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone https://github.com/eonebyte/PortfolioIQ.git
-    cd PortfolioIQ
+    git clone https://github.com/eonebyte/PortfoliQ.git
+    cd PortfoliQ
     ```
 
 2.  **Install dependensi untuk Backend (di folder utama):**
@@ -64,11 +64,11 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal di komp
     ```
 
 5.  **Buka di browser:**
-    Aplikasi akan tersedia di `http://localhost:5173`.
+    Aplikasi akan tersedia di `http://localhost:3000`.
 
 ---
 
 ## Kontak
 
 -   **GitHub:** [@eonebyte](https://github.com/eonebyte)
--   **LinkedIn:** `[(https://www.linkedin.com/in/ahmad-fauzi-ridwan-34229a1a7/)]`
+-   **LinkedIn:** [Ahmad Fauzi Ridwan](https://www.linkedin.com/in/ahmad-fauzi-ridwan-34229a1a7/)
