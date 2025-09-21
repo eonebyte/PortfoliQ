@@ -71,4 +71,4 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal di komp
 ## Kontak
 
 -   **GitHub:** [@eonebyte](https://github.com/eonebyte)
--   **LinkedIn:** `[Link-Profil-LinkedIn-Anda]`
+-   **LinkedIn:** `[(https://www.linkedin.com/in/ahmad-fauzi-ridwan-34229a1a7/)]`
