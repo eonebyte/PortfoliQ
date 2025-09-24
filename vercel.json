@@ -1,11 +1,13 @@
 {
   "functions": {
     "api/index.js": {
-      "runtime": "nodejs22.x",
       "includeFiles": "node_modules/html-rewriter-wasm/dist/**"
     }
   },
-  "routes": [
-    { "src": "/(.*)", "dest": "/api/index.js" }
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api"
+    }
   ]
 }
