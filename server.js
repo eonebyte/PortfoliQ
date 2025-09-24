@@ -14,7 +14,8 @@ const server = Fastify({
 })
 
 await server.register(FastifyVite, {
-  root: import.meta.dirname,
+  // root: import.meta.dirname,
+  root: process.cwd(),
   renderer: '@fastify/react',
 })
 
