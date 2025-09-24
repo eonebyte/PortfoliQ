@@ -1,0 +1,1 @@
+const s=Object.assign({"/pages/blog/[slug].jsx":()=>import("./_slug_-DHJb5Yq9.js"),"/pages/blog/index.jsx":()=>import("./index-CY2PWr23.js"),"/pages/index.jsx":()=>import("./index-BRHczkFH.js")});export{s as default};
