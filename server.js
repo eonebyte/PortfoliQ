@@ -1,12 +1,16 @@
 import Fastify from 'fastify'
 import FastifyVite from '@fastify/vite'
 
+const isProd = process.env.VERCEL;
+
 const server = Fastify({
-  logger: {
-    transport: {
-      target: '@fastify/one-line-logger'
+  logger: isProd
+    ? true // default logger di production
+    : {
+      transport: {
+        target: '@fastify/one-line-logger'
+      }
     }
-  }
 })
 
 await server.register(FastifyVite, {
