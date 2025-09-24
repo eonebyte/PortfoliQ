@@ -1,10 +1,7 @@
 {
   "functions": {
     "api/index.js": {
-      "includedFiles": [
-        "node_modules/html-rewriter-wasm/dist/**",
-        "client/dist/**"
-      ]
+      "includeFiles": "node_modules/html-rewriter-wasm/dist/**"
     }
   },
   "rewrites": [
