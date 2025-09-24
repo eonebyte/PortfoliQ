@@ -39,4 +39,9 @@ server.delete('/api/todo/items', (req, reply) => {
   reply.send({ ok: true })
 })
 
-await server.listen({ port: 3000 })
+
+if (process.env.VERCEL !== '1') {
+  await server.listen({ port: process.env.PORT || 3000 })
+}
+
+export default server
