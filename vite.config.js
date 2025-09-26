@@ -5,6 +5,9 @@ import viteFastifyReact from '@fastify/react/plugin'
 
 export default {
   root: path.resolve(import.meta.dirname, 'client'),
+  build: {
+    outDir: path.resolve(import.meta.dirname, 'dist'),
+  },
   plugins: [
     viteReact(),
     viteFastifyReact(),
