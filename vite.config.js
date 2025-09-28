@@ -1,5 +1,4 @@
 import path from 'node:path';
-
 import viteReact from '@vitejs/plugin-react'
 import viteFastifyReact from '@fastify/react/plugin'
 
