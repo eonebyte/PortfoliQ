@@ -1,10 +1,11 @@
 # PortfolioIQ - Portofolio Pribadi Dinamis
 
-![Tampilan Proyek PortfolioIQ]([URL_SCREENSHOT_UTAMA_PROYEK_ANDA])
+![Dashboard](client/assets/home.png)
+
 
 PortfolioIQ adalah sebuah platform portofolio pribadi yang modern dan cepat, dirancang untuk menampilkan karya dan tulisan seorang developer atau profesional kreatif. Proyek ini dibangun dengan fokus pada performa tinggi dan desain yang bersih.
 
-*   **Live Demo:** [Lihat Disini]([URL_LIVE_DEMO_PROYEK_ANDA])
+*   **Live Demo:** [Lihat Disini]([http://fauzi.biz.id/])
 
 ---
 
